@@ -1,0 +1,10 @@
+# File path
+RATE_PATH = r"D:\PythonWorkspace\RateAutomation\RATES.xlsx"
+CHROME_PATH = r"D:\PythonWorkspace\RateAutomation\chromedriver.exe"
+# FTP server
+HOST = "STPDSTEST"
+USERNAME = "GWC_SYS_DS"
+PASSWORD = "Welcome62918!"
+REMOTE_DIR = "/DSPROD/"
+LOCAL_DIR = "D:\\PythonWorkspace\\RateAutomation\\"
+FILENAME = "RATES.xlsx"
